@@ -16,7 +16,7 @@
 title: Artifacts Out For Varian
 email: kelsin@valefor.com
 description: > # this means to ignore newlines until "baseurl:"
-  A World of Warcraft US Alliance raiding alliance between [Daughters of the Alliance](http://www.dota-guild.com/) and [Learn By Dying](http://learnbydying.com).
+  A World of Warcraft US Alliance raiding alliance between Daughters of the Alliance and Learn By Dying.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://varian.lol" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
