@@ -19,8 +19,8 @@ description: > # this means to ignore newlines until "baseurl:"
   A World of Warcraft US Alliance raiding alliance between Daughters of the Alliance and Learn By Dying.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://varian.lol" # the base hostname & protocol for your site
-# twitter_username: jekyllrb
-# github_username:  jekyll
+twitter_username: caitorait
+github_username: kelsin
 
 # Build settings
 markdown: kramdown
